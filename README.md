@@ -13,12 +13,12 @@ I love exploring new games at my free time. I'm always updated with new trends o
 
 ### ✨My Favourite Repo
 |  HexHero(WIP) | Trashure (WIP) |
-|:---:|:---:|
+|:---|:---|
 |     | |
 
 |     InsectKiller| BlobFight    |
-|:---:|:---:|
-|  <img width="500" height="300" alt="InsectKiller" src="https://github.com/user-attachments/assets/4d393d61-1439-41c1-916e-9aeeb9013b4a" />| |
+|:---|:---|
+|  <img width="500" height="300" alt="InsectKiller" src="https://github.com/user-attachments/assets/4d393d61-1439-41c1-916e-9aeeb9013b4a" /><br>Description:<br><sub> InsectKiller is developed using the Unity Engine, this 2D top-down shooter implements a <br>modular gameplay system where different enemy types are created as reusable prefabs,<br> allowing their behaviors, attributes, and visual components to be easily configured and<br> duplicated. This project uses C# scripts and Unity components to manage gameplay logic,<br> enabling the different systems to interact efficiently while keeping the game's architecture<br> flexible and easy to expand. | |
 |🎮[Playtest](https://pierremasamune.itch.io/insectkiller)||
 |🛠️[Repository](https://github.com/PierreMasamune/InsectKiller)||
 
