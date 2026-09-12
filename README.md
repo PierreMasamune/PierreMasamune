@@ -13,10 +13,14 @@ I love exploring new games at my free time. I'm always updated with new trends o
 
 ### ✨My Favourite Repo
 |  HexHero(WIP) | Trashure (WIP) |
-|-----|-----------|
+|:---:|:---:|
 |     | |
+
 |     InsectKiller| BlobFight    |
-|     |        |
+|:---:|:---:|
+|  <img width="500" height="300" alt="InsectKiller" src="https://github.com/user-attachments/assets/4d393d61-1439-41c1-916e-9aeeb9013b4a" />| |
+|🎮[Playtest](https://pierremasamune.itch.io/insectkiller)||
+|🛠️[Repository](https://github.com/PierreMasamune/InsectKiller)||
 
 
 
