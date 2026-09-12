@@ -14,7 +14,9 @@ I love exploring new games at my free time. I'm always updated with new trends o
 ### ✨My Favourite Repo
 |  HexHero(WIP) | Trashure (WIP) |
 |:---|:---|
-|     | |
+|<br>Description:<br>Hexhero is a 2.5D Hexagon grid based Rougelike Strategy game build using unity engine where we manage our gold food and solider balance to beat the final boss |<br>Description:<br>Trashure is a 2D Pixel Simulator game where you build your own recycling center empire and gain money |
+|🎮[Playtest](https://pierremasamune.itch.io/insectkiller)||
+|🛠️[Repository](https://github.com/PierreMasamune/InsectKiller)||
 
 |     InsectKiller| BlobFight    |
 |:---|:---|
