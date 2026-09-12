@@ -14,15 +14,15 @@ I love exploring new games at my free time. I'm always updated with new trends o
 ### ✨My Favourite Repo
 |  HexHero(WIP) | Trashure (WIP) |
 |:---|:---|
-|<br>Description:<br>Hexhero is a 2.5D Hexagon grid based Rougelike Strategy game build using unity engine where we manage our gold food and solider balance to beat the final boss |<br>Description:<br>Trashure is a 2D Pixel Simulator game where you build your own recycling center empire and gain money |
-|🎮[Playtest](https://pierremasamune.itch.io/insectkiller)||
-|🛠️[Repository](https://github.com/PierreMasamune/InsectKiller)||
+|<br>Description:<br>Hexhero is a 2.5D Hexagon grid based Rougelike Strategy game build using unity engine in 3D where we manage our gold food and solider balance to beat the final boss |<br>Description:<br>Trashure is a 2D Pixel Simulator game where you build your own recycling center empire and gain money |
+|Playtest|Playtest|
+|🛠️[Repository](https://github.com/PierreMasamune/HexHero)|🛠️[Repository](https://github.com/PierreMasamune/Trashure)|
 
 |     InsectKiller| BlobFight    |
 |:---|:---|
-|  <img width="500" height="300" alt="InsectKiller" src="https://github.com/user-attachments/assets/4d393d61-1439-41c1-916e-9aeeb9013b4a" /><br>Description:<br><sub> InsectKiller is developed using the Unity Engine, this 2D top-down shooter implements a <br>modular gameplay system where different enemy types are created as reusable prefabs,<br> allowing their behaviors, attributes, and visual components to be easily configured and<br> duplicated. This project uses C# scripts and Unity components to manage gameplay logic,<br> enabling the different systems to interact efficiently while keeping the game's architecture<br> flexible and easy to expand. | |
-|🎮[Playtest](https://pierremasamune.itch.io/insectkiller)||
-|🛠️[Repository](https://github.com/PierreMasamune/InsectKiller)||
+|  <img width="500" height="300" alt="InsectKiller" src="https://github.com/user-attachments/assets/4d393d61-1439-41c1-916e-9aeeb9013b4a" /><br>Description:<br><sub> InsectKiller is developed using the Unity Engine, this 2D top-down shooter implements a <br>modular gameplay system where different enemy types are created as reusable prefabs,<br> allowing their behaviors, attributes, and visual components to be easily configured and<br> duplicated. This project uses C# scripts and Unity components to manage gameplay logic,<br> enabling the different systems to interact efficiently while keeping the game's architecture<br> flexible and easy to expand. | <br>Description:<br>BlobFight is a 2D Platformer Game where you avoid obstacle, enemy and try to reach to the end of the level to progress to the next level  |
+|🎮[Playtest](https://pierremasamune.itch.io/insectkiller)|🎮[Playtest](https://pierremasamune.itch.io/blob-fight)|
+|🛠️[Repository](https://github.com/PierreMasamune/InsectKiller)|🛠️[Repository](https://github.com/PierreMasamune/BlobFight)|
 
 🛠️Tools
 --
