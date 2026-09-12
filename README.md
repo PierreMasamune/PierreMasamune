@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🧑‍💻 About Me
+-🧑‍💻 About Me
 I am a Junior Game Developer with 2 years of experience using Unity.
 
 i love exploring new games at my free time. I'm always updated with new trends of gaming experiences, gaming tech and popular titles. My favorite game is Heart of Irons 4!
