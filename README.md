@@ -12,6 +12,11 @@ I love exploring new games at my free time. I'm always updated with new trends o
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sean-jeremiah-b861293ba/) | [Email](mailto:seanjeremiah10@gmail.com) 
 
 ### ✨My Favourite Repo
+|  HexHero(WIP) | Trashure (WIP) |
+|-----|-----------|
+|     | |
+|     InsectKiller| BlobFight    |
+|     |        |
 
 
 
