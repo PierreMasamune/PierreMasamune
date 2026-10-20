@@ -12,10 +12,10 @@ I love exploring new games at my free time. I'm always updated with new trends o
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sean-jeremiah-b861293ba/) | [Email](mailto:seanjeremiah10@gmail.com) 
 
 ### ✨My Favourite Repo
-|  HexHero(WIP) | Trashure (WIP) |
+|  HexHero(WIP) | Bot's Journey (WIP) |
 |:---|:---|
-|<br>Description:<br>Hexhero is a 2.5D Hexagon grid based Rougelike Strategy game build using unity engine in 3D where we manage our gold food and solider balance to beat the final boss |<br>Description:<br>Trashure is a 2D Pixel Simulator game where you build your own recycling center empire and gain money |
-|Playtest|Playtest|
+|<br>Description:<br>Hexhero is a 2.5D Hexagon grid based Rougelike Strategy game build using unity engine in 3D where we manage our gold food and solider balance to beat the final boss |<video src="https://github.com/user-attachments/assets/4658f7c6-16ca-4356-8326-015f8cbf0f8c"><br>Description:<br>Bot's Journey is a cozy adventure game where you control a robot doing things human use to do. but because human are long gone, you're now alone to enjoy what once their home.|
+|Playtest|🎮[Playtest](https://pierremasamune.itch.io/bots-journey)|
 |🛠️[Repository](https://github.com/PierreMasamune/HexHero)|🛠️[Repository](https://github.com/PierreMasamune/Trashure)|
 
 |     InsectKiller| BlobFight    |
