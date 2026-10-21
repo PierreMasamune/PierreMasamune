@@ -12,9 +12,9 @@ I love exploring new games at my free time. I'm always updated with new trends o
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sean-jeremiah-b861293ba/) | [Email](mailto:seanjeremiah10@gmail.com) 
 
 ### ✨My Favourite Repo
-|  HexHero(WIP) | Bot's Journey (WIP) |
+|  HexHero(WIP) | Bot's Journey |
 |:---|:---|
-|<br>Description:<br>Hexhero is a 2.5D Hexagon grid based Rougelike Strategy game build using unity engine in 3D where we manage our gold food and solider balance to beat the final boss |<img width="854" height="480" alt="Banner_001" src="https://github.com/user-attachments/assets/337e0236-7ac2-485f-aeff-ba5cf9758234" /><br>Description:<br>Bot's Journey is a cozy adventure game where you control a robot doing things human use to do. but because human are long gone, you're now alone to enjoy what once their home. |
+|<img width="845" height="480" alt="image" src="https://github.com/user-attachments/assets/d935476d-54a9-4d31-a684-d66f71ff7b58" /><br>Description:<br>Hexhero is a 2.5D Hexagon grid based Rougelike Strategy game build using unity engine in 3D where we manage our gold food and solider balance to beat the final boss |<img width="854" height="480" alt="Banner_001" src="https://github.com/user-attachments/assets/337e0236-7ac2-485f-aeff-ba5cf9758234" /><br>Description:<br>Bot's Journey is a cozy adventure game where you control a robot doing things human use to do. but because human are long gone, you're now alone to enjoy what once their home. |
 |Playtest|🎮[Playtest](https://pierremasamune.itch.io/bots-journey)|
 |🛠️[Repository](https://github.com/PierreMasamune/HexHero)||
 
